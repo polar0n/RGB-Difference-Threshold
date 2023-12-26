@@ -1,0 +1,5 @@
+__pycache__
+portfolio/*
+spreadsheet
+test.py
+utils/__pycache__
